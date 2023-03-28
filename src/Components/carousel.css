@@ -1,0 +1,162 @@
+/* 
+.innovation{
+    position:absolute;
+     z-index:1;
+    top:270px;
+    left:200px;
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+opacity: 0.8;
+} */
+/* .datadesc{
+    position:absolute;
+     z-index:1;
+    top:240px;
+    left:600px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+
+}
+.prg{
+    position:absolute;
+     z-index:1;
+    top:270px;
+    left:520px;
+    font-family: 'Raleway';
+
+} */
+.risk {
+    position: absolute;
+    z-index: 1;
+    top: 270px;
+    right: 70px;
+
+    color: #FFFFFF;
+
+
+}
+
+/* .square{ */
+
+/* margin: 25px;
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    overflow: hidden;  */
+
+.im1 {
+    position: relative;
+    left: 0px;
+    width: 500px;
+    z-index: 1;
+
+
+}
+
+.im2 {
+
+    width: 600px;
+    position: relative;
+    right: 120px;
+
+}
+
+.im3 {
+    position: relative;
+    right: 240px;
+    width: 500px;
+    z-index: 1;
+}
+
+.slidem1 {
+    position: absolute;
+    z-index: 1;
+    bottom: 270px;
+    right: 1080px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+    opacity: 0.8;
+}
+
+.slidem2 {
+    position: absolute;
+    bottom: 250px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+    opacity: 0.8;
+}
+
+.slidem3 {
+    position: absolute;
+    z-index: 1;
+    bottom: 270px;
+    right: -680px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    text-transform: capitalize;
+    opacity: 0.8;
+    color: #FFFFFF;
+
+}
+.pragph{
+    
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.8;
+}
+.bgimg{
+    background-image:url("../../public/Images/reactbclr.png");
+    background-size: contain;
+    width:100%;
+    position:absolute;
+    top:210px;
+    z-index:-1;
+} 
+
+@media screen and (min-width: 1920px) {
+    .mdqr1 {
+      position:reative;
+      left:240px;
+    }
+  }
