@@ -1,13 +1,14 @@
-/* 
-.innovation{
+
+.hd{
     position:absolute;
      z-index:1;
-    top:270px;
-    left:200px;
+    top:-10px;
+    left:-60px;
+    width:200px;
     font-family: 'Raleway';
 font-style: normal;
 font-weight: 700;
-font-size: 30px;
+font-size: 25px;
 line-height: 35px;
 text-align: center;
 text-transform: capitalize;
@@ -15,38 +16,40 @@ text-transform: capitalize;
 color: #FFFFFF;
 
 opacity: 0.8;
-} */
-/* .datadesc{
+} 
+.hd1{
     position:absolute;
      z-index:1;
-    top:240px;
-    left:600px;
+    top:-10px;
+    right:370px;
+    width:200px;
     font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 35px;
-    text-align: center;
-    text-transform: capitalize;
-    
-    color: #FFFFFF;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+text-align: center;
+text-transform: capitalize;
 
-}
-.prg{
+/* color: #FFFFFF; */
+
+opacity: 0.8;
+} 
+.hd2 {
     position:absolute;
-     z-index:1;
-    top:270px;
-    left:520px;
-    font-family: 'Raleway';
+    z-index:1;
+   top:-10px;
+   right:800px;
+   width:200px;
+   font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+text-align: center;
+text-transform: capitalize;
 
-} */
-.risk {
-    position: absolute;
-    z-index: 1;
-    top: 270px;
-    right: 70px;
+/* color: #FFFFFF; */
 
-    color: #FFFFFF;
+opacity: 0.8;
 
 
 }
@@ -62,11 +65,17 @@ opacity: 0.8;
 .im1 {
     position: relative;
     left: 0px;
+    top:50px;
     width: 500px;
+    height:500px;
     z-index: 1;
 
 
 }
+/* .im1:hover{
+    width:50%;
+    transition: 0.5s ease-in-out;
+} */
 
 .im2 {
 
@@ -79,7 +88,9 @@ opacity: 0.8;
 .im3 {
     position: relative;
     right: 240px;
+    top:50px;
     width: 500px;
+    height:500px;
     z-index: 1;
 }
 
@@ -103,7 +114,7 @@ opacity: 0.8;
 
 .slidem2 {
     position: absolute;
-    bottom: 250px;
+    bottom: 240px;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
